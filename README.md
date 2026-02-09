@@ -35,7 +35,7 @@ The second dataset contains measurements collected from three vehicles: Hyundai 
 1. [Car-Hacking Dataset, Hacking and Countermeasure Research Lab (HCRL) at Korea University](https://www.kaggle.com/datasets/pranavjha24/car-hacking-dataset)
 <img width="770" height="235" alt="car-hacking dataset stats" src="https://github.com/user-attachments/assets/d5e6f079-e0a5-4fb8-b986-71ab1de3b2c7" />
 *Table 1. Car-hacking dataset.*
-2. [Survival Dataset, Hacking and Countermeasure Research Lab (HCRL) at Korea University]([url](https://ocslab.hksecurity.net/Datasets/survival-ids))
+2. [Survival Dataset, Hacking and Countermeasure Research Lab (HCRL) at Korea University](https://ocslab.hksecurity.net/Datasets/survival-ids)
 <img width="773" height="217" alt="survival dataset stats" src="https://github.com/user-attachments/assets/14da5de4-f13e-47d9-8fd2-cf361c6c5265" />
 *Table 2. Survival dataset.*
 
@@ -73,8 +73,6 @@ The second dataset contains measurements collected from three vehicles: Hyundai 
 | Sonata   | 99.95 | 98.88 | 99.57 |
 | Soul     | 99.96 | 99.64 | 98.62 |
 | Spark    | 99.92 | 97.03 | 99.78 |
-
----
 
 #### (b) Recall (%)
 
